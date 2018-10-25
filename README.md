@@ -18,7 +18,7 @@ I am excited to work with all of you, and I know this will turn out to be a grea
 Sincerely,
 MP
 
->> about getting the mp3 file to run properly(IMPORTANT)
+# about getting the mp3 file to run properly(IMPORTANT)
 step 1: click on the heartbeat.mp3 file under the freeedit section.
 step 2: click on the download button on the right side of the screen.
 (This will bring you to a screen that will automatically start playing the file).
