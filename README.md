@@ -20,9 +20,13 @@ MP
 
 # about getting the mp3 file to run properly(IMPORTANT)
 step 1: click on the heartbeat.mp3 file under the freeedit section.
+
 step 2: click on the download button on the right side of the screen.
+
 (This will bring you to a screen that will automatically start playing the file).
+
 step 3: pause the file and set the playtime back to 00:00
+
 step 4: right click the playbutton.
 step 5: click save audio as... (it might be different for a mac, I'm not sure yet).
 step 6: save it as heartbeat.mp3 (don't forget the .mp3 at the end, it's important. Also, make sure to save it to your matlab folder path).
